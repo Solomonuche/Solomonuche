@@ -1,7 +1,7 @@
 
 # </> Solomon Nweke 
 
-## Hello world. I'm Solomon, a Frontend Developer
+## Hello world. I'm Solomon, a budding software engineer
 
 I love writing code
 ## 🚀 About Me
@@ -14,7 +14,7 @@ HTML, CSS, Javascript...
 
 ## My Timeline
 
-🧠 I'm currently learning Frontend technology through Zuri training
+🧠 I'm currently learning software development with ALX_Africa
 
 👯‍♀️ I'm open and looking to collaborate on projects and build my career...
 
