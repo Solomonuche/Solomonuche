@@ -1,26 +1,26 @@
 
 # </> Solomon Nweke 
 
-## Hello world. I'm Solomon, a budding software engineer
-
-I love writing code
 ## 🚀 About Me
-I love solving problems with code. Aside coding, I love reading books, traveling and watching football.
+I'm a dedicated and skilled Software Engineer specializing in backend development. I have a proven track record in designing, developing, and maintaining scalable and efficient software solutions.
 
-I'm passionate about what I do and I believe that details is everything
-## 🛠 Skills
-HTML, CSS, Javascript...
+## 🛠️ Skills
+- **Programming Languages:** Python, JavaScript, C
+- **Frameworks and Libraries:** Django, Flask, Node.js, FastApi
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools and Platforms:** AWS, Git
+- **Other Skills:** RESTful APIs, Microservices, Unit Testing
 
+## 📫 How to reach me
+- Email: solomonuche[at]gmail.com
+- LinkedIn: [linkedin.com/in/nwekesolomon](https://www.linkedin.com/in/nwekesolomon)
+- GitHub: [github.com/solomonuche](https://github.com/solomonuche)
 
-## My Timeline
-
-🧠 I'm currently learning software development with ALX_Africa
-
-👯‍♀️ I'm open and looking to collaborate on projects and build my career...
-
-📫 Get-in-touch solomonuche@gmail.com
-
-
+## 💬 Ask me about
+- Backend development
+- Software engineering
+- Restful Api
+- Building scalable applications
 
 ## Authors
 
