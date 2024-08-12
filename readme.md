@@ -1,5 +1,5 @@
 
-# </> Solomon Nweke 
+# Solomon Nweke 
 
 ## 🚀 About Me
 I'm a dedicated and skilled Software Engineer specializing in backend development. I have a proven track record in designing, developing, and maintaining scalable and efficient software solutions.
